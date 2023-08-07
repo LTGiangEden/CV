@@ -7,7 +7,7 @@ email:
 homepage:
   text: Văn Miếu, Đống Đa, Hà Nội, Việt Nam
 phone:
-  phone: +84-94-228-7607
+  text: (+84)94-228-7607
 ---
 
 # **Lưu** Trường Giang
