@@ -6,8 +6,7 @@ email:
   text: gianglt.fhvhn@gmail.com
 homepage:
   text: Văn Miếu, Đống Đa, Hà Nội, Việt Nam
-phone:
-  text: (+84)94-228-7607
+phone: (+84)94-228-7607
 ---
 
 # **Lưu** Trường Giang
