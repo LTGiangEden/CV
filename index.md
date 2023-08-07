@@ -52,10 +52,10 @@ _JLPT_<br>
 
 ## Thành tích & Giải thưởng
 
-### Thành tích Game
+### **Thành tích Game**
 Rainbow Six Siege - 1st Onlan CHAMPIONSHIP at Vikings : Champion `Hà Nội - Việt Nam, 2019.7` <br>
 
-### Thành tích khác
+### **Thành tích khác**
 Giải Nhất cuộc thi  `Chiba - Nhật Bản, 2017` <br>
 
 <!-- ### Footer
