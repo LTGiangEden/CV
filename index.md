@@ -32,19 +32,21 @@ Hà Nội, Việt Nam
 - Cử nhân Khoa học Máy tính (B.S. in Computer Science)
 
 ## Experience
+
 ### **Tổng công ty Công nghệ - Viễn thông Toàn cầu (GTEL)** `2022.5 - 2022.9`
 _GtelSoft (Trung tâm phần mềm)_<br>
   - Manual Tester (Intern -> Fresher)
     + Chuyên viên kiểm thử phần mềm, hỗ trợ test các bug có trên các dự án web app do trung tâm sản xuất theo yêu cầu của Bộ Công an bao gồm cả các phần mềm liên quan đến Cơ sở dữ liệu quốc gia về dân cư. Hỗ trợ viết testcase, checklist, chạy testcase cả mới và có sẵn.
 
 ## Language
+
 ### **English** (Tiếng Anh)
 _IELTS_<br>
-  - IELTS điểm 6.5 `2015`
+  - IELTS điểm 6.5 `2015` <br>
 
 ### **Japanese** (Tiếng Nhật)
 _JLPT_<br>
-  - Chưa thi lấy chứng chỉ nhưng tự tin có thể giao tiếp nói chuyện hàng ngày với người bản địa (Trình độ N4)
+  - Chưa thi lấy chứng chỉ nhưng tự tin có thể giao tiếp nói chuyện hàng ngày với người bản địa (Trình độ N4) <br>
 
 ---
 
