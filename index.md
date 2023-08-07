@@ -21,7 +21,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## Học vấn
 
 ### **Đại học Công nghệ - Đại học Quốc gia Hà Nội** `2016.9 - 2022.9`
 
@@ -31,14 +31,14 @@ Hà Nội, Việt Nam
 
 - Cử nhân Khoa học Máy tính (B.S. in Computer Science)
 
-## Experience
+## Kinh nghiệm
 
 ### **Tổng công ty Công nghệ - Viễn thông Toàn cầu (GTEL)** `2022.5 - 2022.9`
 _GtelSoft (Trung tâm phần mềm)_<br>
   - Manual Tester (Intern -> Fresher)
     + Chuyên viên kiểm thử phần mềm, hỗ trợ test các bug có trên các dự án web app do trung tâm sản xuất theo yêu cầu của Bộ Công an bao gồm cả các phần mềm liên quan đến Cơ sở dữ liệu quốc gia về dân cư. Hỗ trợ viết testcase, checklist, chạy testcase cả mới và có sẵn.
 
-## Language
+## Ngoại ngữ
 
 ### **English** (Tiếng Anh)
 _IELTS_<br>
