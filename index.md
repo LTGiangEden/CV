@@ -29,7 +29,7 @@ Supported arguments:
 Hà Nội, Việt Nam
 ```
 
-- B.S. in Computer Science
+- Cử nhân Khoa học Máy tính (B.S. in Computer Science)
 
 ## Experience
 ### **Tổng công ty Công nghệ - Viễn thông Toàn cầu (GTEL)** `2022.5 - 2022.9`
