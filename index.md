@@ -1,12 +1,14 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Lưu Trường Giang
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:gianglt.fhvhn@gmail.com
+  text: gianglt.fhvhn@gmail.com
+address:
+  text: Văn Miếu, Đống Đa, Hà Nội, Việt Nam
+phone:
+  phone: +84-94-228-7607
+  text: +84-94-228-7607
 ---
 
 # Wode **Ni**
@@ -23,32 +25,13 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Đại học Công nghệ - Đại học Quốc gia Hà Nội** `2016.9 - 2022.9`
 
 ```
-Pittsburgh, PA
+Hà Nội, Việt Nam
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- B.S. in Computer Science
 
 ## Publications
 
@@ -136,35 +119,14 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 
 ---
 
-## Honors & Awards
+## Thành tích & Giải thưởng
 
+### Thành tích Game
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
+
+### Thành tích khác
 John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Teaching
-
-Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Service
-
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2023 -->
