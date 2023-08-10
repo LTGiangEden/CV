@@ -21,6 +21,14 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## Thông tin cá nhân
+_Tuổi_: 26<br>
+_Giới tính_: Nam<br>
+_Tình trạng hôn nhân_: Độc thân<br>
+_Ngày sinh_: 06/11/1997<br>
+_Nơi sinh_: Hà Nội, Việt Nam<br>
+_Quốc tịch_: Việt Nam <br>
+
 ## Học vấn
 
 ### **Đại học Công nghệ - Đại học Quốc gia Hà Nội** `2016.9 - 2022.9`
