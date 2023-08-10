@@ -27,7 +27,7 @@ Supported arguments:
 - _Tình trạng hôn nhân_: Độc thân<br>
 - _Ngày sinh_: 06/11/1997<br>
 - _Nơi sinh_: Hà Nội, Việt Nam<br>
-- _Quốc tịch_: Việt Nam <br>
+- _Quốc tịch_: Việt Nam<br>
 
 ## Học vấn
 
